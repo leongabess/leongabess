@@ -38,7 +38,7 @@ Sou formado em Análise e Desenvolvimento de Sistemas, com background em suporte
 <h2>📬 Contato</h2>
 
 <p>
-  E-mail: leonardo25gabriel@hotmail.com
+  E-mail: <a href= "mailto:leonardo25gabriel@hotmail.com">leonardo25gabriel@hotmail.com </a>
 </p>
 <p>
     <a href="https://www.linkedin.com/in/leomnascimento/" target="_blank">
