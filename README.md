@@ -38,10 +38,10 @@ Sou formado em Análise e Desenvolvimento de Sistemas, com background em suporte
 <h2>📬 Contato</h2>
 
 <p>
-  <a href="mailto:leonardo25gabriel@hotmail.com">
-    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/leomnascimento/" target="_blank">
+  E-mail: leonardo25gabriel@hotmail.com
+</p>
+<p>
+    <a href="https://www.linkedin.com/in/leomnascimento/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </p>
