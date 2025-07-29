@@ -3,11 +3,11 @@
 <h2>🧠 Sobre Mim</h2>
 
 <p>
-Sou formado em Análise e Desenvolvimento de Sistemas, com background em suporte técnico e hardware. Atualmente, estou direcionando meu foco para o desenvolvimento de software, consolidando conhecimentos e aplicando-os em projetos práticos.
+Sou formado em Análise e Desenvolvimento de Sistemas, com vivência em suporte técnico e hardware. Atualmente, estou focando no desenvolvimento de software, praticando em projetos.
 </p>
 
 <p>
-💻 Tenho experiência com <strong>JavaScript</strong> e <strong>Node.js + Express</strong> no back-end, além de já ter utilizado <strong>Python</strong> em projetos de automação. Estou sempre aberto a aprender novas linguagens e tecnologias, priorizando adaptabilidade e boas práticas.
+💻 Tenho conhecimento em <strong>JavaScript, Node.js e Express</strong> no back-end, também utilizando <stronger>Docker e Postgresql</stronger>, além de já ter utilizado <strong>Python</strong> em projetos de automação. Estou sempre aberto a aprender novas tecnologias, levando em consideração a necessidade de se adaptar.
 </p>
 
 <p>
@@ -15,7 +15,7 @@ Sou formado em Análise e Desenvolvimento de Sistemas, com background em suporte
 </p>
 
 <p>
-🎧 Fora da tecnologia, a música é parte essencial da minha vida — especialmente gêneros como <strong>post-hardcore/punk</strong>, que me acompanham no dia a dia ao lado de jogos, animes e outras formas de arte.
+🎧 Fora da tecnologia, a música é parte essencial da minha vida, especialmente gêneros como <strong>post-hardcore/punk</strong>, além de coisas como jogos, animes e outras formas de arte.
 </p>
 
 <h2></h2>
