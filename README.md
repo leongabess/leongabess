@@ -1,21 +1,21 @@
 <h1> Olá 👋</h1>
 <br><br>
-<h2>🧠 Sobre Mim</h2>
+<h2> Sobre Mim</h2>
 
 <p>
 Sou formado em Análise e Desenvolvimento de Sistemas, com vivência em suporte técnico e hardware. Atualmente, estou focando no desenvolvimento de software, praticando em projetos.
 </p>
 
 <p>
-💻 Tenho conhecimento em <strong>JavaScript, Node.js e Express</strong> no back-end, também utilizando <stronger>Docker e Postgresql</stronger>, além de já ter utilizado <strong>Python</strong> em projetos de automação. Estou sempre aberto a aprender novas tecnologias, levando em consideração a necessidade de se adaptar.
+ Tenho conhecimento em <strong>JavaScript, Node.js e Express</strong> no back-end, também utilizando <stronger>Docker e Postgresql</stronger>, além de já ter utilizado <strong>Python</strong> em projetos de automação. Estou sempre aberto a aprender novas tecnologias, levando em consideração a necessidade de se adaptar.
 </p>
 
 <p>
-🚀 Meu principal interesse é o <strong>desenvolvimento back-end</strong>, mas compreendo a importância de dominar os fundamentos do front-end para garantir uma integração eficiente entre as camadas da aplicação. Também tenho explorado conceitos de DevOps para entender o ciclo completo de entrega de software.
+ Meu principal interesse é o <strong>desenvolvimento back-end</strong>, mas compreendo a importância de dominar os fundamentos do front-end para garantir uma integração eficiente entre as camadas da aplicação. Também tenho explorado conceitos de DevOps.
 </p>
 
 <p>
-🎧 Fora da tecnologia, a música é parte essencial da minha vida, especialmente gêneros como <strong>post-hardcore/punk</strong>, além de coisas como jogos, animes e outras formas de arte.
+Fora da tecnologia, a música é parte essencial da minha vida, especialmente gêneros como <strong>post-hardcore/punk</strong>, além de jogos, animes e outros.
 </p>
 
 <h2></h2>
@@ -35,7 +35,7 @@ Sou formado em Análise e Desenvolvimento de Sistemas, com vivência em suporte 
 
 <br><br>
 
-<h2>📬 Contato</h2>
+<h2> Contato</h2>
 
 <p>
   E-mail: <a href= "mailto:leonardo25gabriel@hotmail.com">leonardo25gabriel@hotmail.com </a>
