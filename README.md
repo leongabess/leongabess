@@ -3,19 +3,19 @@
 <h2> Sobre Mim</h2>
 
 <p>
-Sou formado em Análise e Desenvolvimento de Sistemas, com vivência em suporte técnico e hardware. Atualmente, estou focando no desenvolvimento de software, praticando em projetos.
+Formado em Análise e Desenvolvimento de Sistemas, com experiência em suporte técnico e em atendimento de usuários. Atualmente, estou focado no desenvolvimento backend, criando projetos práticos como APIs para aplicar conhecimentos.
 </p>
 
 <p>
- Tenho conhecimento em <strong>JavaScript, Node.js e Express</strong> no back-end, também utilizando <stronger>Docker e Postgresql</stronger>, além de já ter utilizado <strong>Python</strong> em projetos de automação. Estou sempre aberto a aprender novas tecnologias, levando em consideração a necessidade de se adaptar.
+ Principais tecnologias que trabalhei até o momento incluem: <strong>JavaScript, Node.js e Express</strong> no back-end, também utilizando <stronger>Docker e Postgresql</stronger>, além de já ter utilizado <strong>Python</strong> em projetos de automação. 
 </p>
 
 <p>
- Meu principal interesse é o <strong>desenvolvimento back-end</strong>, mas compreendo a importância de dominar os fundamentos do front-end para garantir uma integração eficiente entre as camadas da aplicação. Também tenho explorado conceitos de DevOps.
+ Meu principal interesse é o <strong>desenvolvimento back-end</strong>, Tenho base no front-end para garantir integração eficiente entre camadas da aplicação, e estudo conceitos de DevOps.
 </p>
 
 <p>
-Fora da tecnologia, a música é parte essencial da minha vida, especialmente gêneros como <strong>post-hardcore/punk</strong>, além de jogos, animes e outros.
+Fora da tecnologia, a música é parte essencial da minha vida, especialmente gêneros como <strong>post-hardcore/punk</strong>, além de jogos e outros tipos de arte.
 </p>
 
 <h2></h2>
