@@ -3,7 +3,7 @@
 <h2> Sobre Mim</h2>
 
 <p>
-Formado em Análise e Desenvolvimento de Sistemas, com experiência em suporte técnico e em atendimento de usuários. Atualmente, estou focado no desenvolvimento backend, criando projetos práticos como APIs para aplicar conhecimentos.
+Possuo conhecimento e prática em tecnologias como API REST, Express.js, Docker e PostgreSQL. Meu interesse principal está no desenvolvimento back-end, onde busco aplicar conhecimentos adquiridos na criação de projetos práticos.
 </p>
 
 <p>
