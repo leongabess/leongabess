@@ -3,19 +3,19 @@
 <h2> Sobre Mim</h2>
 
 <p>
-Possuo conhecimento e prática em tecnologias como API REST, Express.js, Docker e PostgreSQL. Meu interesse principal está no desenvolvimento back-end, onde busco aplicar conhecimentos adquiridos na criação de projetos práticos.
+Possuo formação em Análise e Desenvolvimento de Sistemas, prática em desenvolvimento de APIs Rest e aplicações back-end, assim como familiaridade com o front-end.
 </p>
 
 <p>
- Principais tecnologias que trabalhei até o momento incluem: <strong>JavaScript, Node.js e Express</strong> no back-end, também utilizando <stronger>Docker e Postgresql</stronger>, além de já ter utilizado <strong>Python</strong> em projetos de automação. 
+ Principais tecnologias que trabalhei até o momento incluem: <strong>JavaScript, Node.js e Express</strong> no back-end. Atualmente estou trabalhando e experimentando com o ecossistema .NET no desenvolvimento web, utilizando C# no ASP.NET Core. 
 </p>
 
 <p>
- Meu principal interesse é o <strong>desenvolvimento back-end</strong>, Tenho base no front-end para garantir integração eficiente entre camadas da aplicação, e estudo conceitos de DevOps.
+ Meu principal interesse é o <strong>desenvolvimento back-end</strong> e a garantia de conexão eficiente com o front-end.
 </p>
 
 <p>
-Fora da tecnologia, a música é parte essencial da minha vida, especialmente gêneros como <strong>post-hardcore/punk</strong>, além de jogos e outros tipos de arte.
+Fora da tecnologia, a música é parte essencial da minha vida, especialmente gêneros como <strong>post-hardcore/punk</strong>.
 </p>
 
 <h2></h2>
@@ -23,15 +23,16 @@ Fora da tecnologia, a música é parte essencial da minha vida, especialmente g�
 <br><br>
 <h2> Tecnologias </h2>
 
-
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
 
 <br><br>
 
