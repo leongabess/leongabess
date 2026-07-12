@@ -11,11 +11,11 @@ Possuo formação em Análise e Desenvolvimento de Sistemas, prática em desenvo
 </p>
 
 <p>
- Meu principal interesse é o <strong>desenvolvimento back-end</strong> e a garantia de conexão eficiente com o front-end.
+ Foco fullstack e prática em desenvolvimento de APIs Rest e aplicações back-end, assim como familiaridade com o front-end utlizando Angular.
 </p>
 
 <p>
-Fora da tecnologia, a música é parte essencial da minha vida, especialmente gêneros como <strong>post-hardcore/punk</strong>.
+Fora da tecnologia, a música é parte essencial da minha vida, especialmente gêneros como <strong>post-hardcore</strong>
 </p>
 
 <h2></h2>
